@@ -1,0 +1,33 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled Java class files
+/target/
+
+# Compiled Kotlin class files
+/out/
+
+# Dependency directories
+/.gradle/
+/.m2/
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Log files
+/log/
+
+# Spring Boot DevTools
+/.spring-boot-devtools.properties
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# System files
+.DS_Store
+Thumbs.db
